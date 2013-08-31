@@ -16,6 +16,7 @@ function View(model) {
 
 reactable(View.prototype);
 
+var view = new View(model);
 document.body.appendChild(view.el);
 ```
 
