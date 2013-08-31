@@ -1,0 +1,16 @@
+{
+    "name": "reactable",
+    "version": "0.1.0",
+    "description": "Add reactive element to an object",
+
+    "dependencies": {
+        "component/domify": "*",
+        "component/reactive": "*"
+    },
+
+    "development": {
+        "component/assert": "*"
+    },
+
+    "scripts": ["index.js"]
+}
