@@ -1,0 +1,9 @@
+{
+  "name": "scttnlsn-reactable",
+  "description": "Add reactive element to an object",
+  "version": "0.1.0",
+  "dependencies": {
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-reactive": "git://github.com/npmcomponent/component-reactive.git"
+  }
+}

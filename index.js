@@ -1,5 +1,5 @@
-var domify = require('domify');
-var reactive = require('reactive');
+var domify = require('component-domify');
+var reactive = require('component-reactive');
 
 module.exports = function (obj) {
     obj || (obj = {});
